@@ -4,7 +4,7 @@
 //divisivel por 3 e 5 =>'fizzbuzz'
 // se não for um numero => 'não é um número'
 // se não for divisivel nem por 3 e nem por 5 => Entrada
-
+/*
 let resultado = fizzBuzz(7);
 console.log(resultado)
 
@@ -21,3 +21,17 @@ function fizzBuzz(entrada) {
     return entrada;
 
 }
+*/
+
+// reverter string
+
+let newStr = '';
+
+function reverseString(str) {
+    for (let i = str.length -1; i>= 0; i--){
+        newStr += str [i];
+        console.log(newStr);
+    }
+}
+
+let resultado = reverseString('hello Gama')
