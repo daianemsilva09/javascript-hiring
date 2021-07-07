@@ -42,8 +42,9 @@ let resultado = reverseString('hello Gama')
 //Converter Celsius to fahrenheit
 
 function converToFahrenheit(value){
+    return value * 1.8 + 32
 
 }
 
-let result = converToFahrenheit(1)
-console.log(result);
+let result = converToFahrenheit(40)
+console.log(`o valor em fahrenheit é ${result}`)
