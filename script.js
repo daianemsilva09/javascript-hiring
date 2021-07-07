@@ -24,7 +24,7 @@ function fizzBuzz(entrada) {
 */
 
 // reverter string
-
+/*
 let newStr = '';
 
 function reverseString(str) {
@@ -35,3 +35,15 @@ function reverseString(str) {
 }
 
 let resultado = reverseString('hello Gama')
+*/
+
+
+//parei 11:17
+//Converter Celsius to fahrenheit
+
+function converToFahrenheit(value){
+
+}
+
+let result = converToFahrenheit(1)
+console.log(result);
