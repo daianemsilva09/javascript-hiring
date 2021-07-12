@@ -51,7 +51,7 @@ console.log(`o valor em fahrenheit é ${result}`)
 */
 
 // Criar elementos 
-
+/*
 const listContainer = document.querySelector ('[data-lists]')
 const newListForm = document.querySelector ('[data-new-list-form]')
 const newListInput = document.querySelector ('[data-new-list-input]')
@@ -90,4 +90,5 @@ function render() {
 
   
 }
+*/
 
